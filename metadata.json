@@ -1,0 +1,6 @@
+{
+  "name": "abzarfile",
+  "description": "Offline MS Office converter and universal file toolbox utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
